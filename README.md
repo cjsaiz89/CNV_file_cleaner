@@ -53,7 +53,9 @@ A log file is created (cruiseIDcnv_cleaner.log), to log every execution showing 
 > 9 lines were replaced in PNE2021b_time_996.cnv
 > 
 > PNE2021b_time_996.cnv renamed as PNE2021b_time_996.cnv_ORIGINAL
+> 
 > temp_PNE2021b_time_996.cnv renamed as PNE2021b_time_996.cnv
+> 
 > PNE2021b_time_996.cnv processed
 > 
 > 
