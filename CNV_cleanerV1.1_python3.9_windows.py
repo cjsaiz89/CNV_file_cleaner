@@ -3,21 +3,21 @@
 global dir_source1, dir_source2, dir_out1, dir_out2, log_path
 
 # Source files Windows
-dir_source1 = 'C://Users//christian.saiz//Documents//NOAA//1_NOAA_work//PNE//myScripts//CTD_cnv_cleaner//PNE2021b_profile_'
-dir_source2 = 'C://Users//christian.saiz//Documents//NOAA//1_NOAA_work//PNE//myScripts//CTD_cnv_cleaner//PNE2021b_time_'
+dir_source1 = 'C://PATH//CTD_cnv_cleaner//PNE2021b_profile_'
+dir_source2 = 'C://PATH//CTD_cnv_cleaner//PNE2021b_time_'
 # Source files Linux
 # dir_source1 = '/home/user/data/ladcp_proc/data/raw_ctdprof/PNE2021b_profile_'
 # dir_source2 = '/home/user/data/ladcp_proc/data/raw_ctdtime/PNE2021b_time_'
 
 # Destination files Windows
-dir_out1 = 'C://Users//christian.saiz//Documents//NOAA//1_NOAA_work//PNE//myScripts//CTD_cnv_cleaner//PNE2021b_profile_clean_'
-dir_out2 = 'C://Users//christian.saiz//Documents//NOAA//1_NOAA_work//PNE//myScripts//CTD_cnv_cleaner//PNE2021b_time_clean_'
+dir_out1 = 'C://PATH//CTD_cnv_cleaner//PNE2021b_profile_clean_'
+dir_out2 = 'C://PATH//PNE2021b_time_clean_'
 # Destination files Linux
 # dir_out1 = '/home/user/data/ladcp_proc/data/raw_ctdprof/PNE2021b_profile_'
 # dir_out2 = '/home/user/data/ladcp_proc/data/raw_ctdtime/PNE2021b_time_'
 
 # log cleaning process Windows
-log_path = 'C://Users//christian.saiz//Documents//NOAA//1_NOAA_work//PNE//myScripts//CTD_cnv_cleaner//cnv_cleaner.log'
+log_path = 'C://PATH//CTD_cnv_cleaner//cnv_cleaner.log'
 # log cleaning process Linux
 # log_path = '/home/user/data/ladcp_proc/data/PNE2021bcnv_cleaner.log'
 
